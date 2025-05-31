@@ -1,0 +1,13 @@
+Copyright © 2025 John L. Stock
+
+All artwork and visual media included in this repository are the exclusive intellectual property of John L. Stock.
+
+You may not reproduce, distribute, publicly display, modify, store, transmit, or otherwise use any of the images or artwork contained in this repository for any purpose, commercial or non-commercial, without the express written permission of the artist (John L. Stock).
+
+This restriction applies to all uploaded artworks regardless of file type, resolution, or embedded metadata.
+
+This license does NOT apply to the HTML, CSS, or code used in this repository, which may be licensed separately (see LICENSE file, if applicable).
+
+Unauthorized use of the artworks may violate copyright laws and is strictly prohibited.
+
+For permissions, please contact: artofjohnstock@gmail.com
